@@ -3,21 +3,22 @@
 </p>
 
 <h1 align="center">Hola! Mi nombre es Federico🤘</h1>
-<h3>💻Full Stack Web Developer💻</h3>
+<h3>💻Full Stack Web Developer Junior💻</h3>
 <div>
-<p> Actualmente estoy finalizando el curso intensivo de desarrollador web full-stack en Soy Henry, con muchas ganas de conseguir mi primer empleo en este rubro que nos ofrece desafíos día a dia y nos permite crecer profesionalmente y como persona al trabajar en equipo. Dispuesto a dar lo mejor de mi ! </p>
+<p> Egresado como desarrollador web full-stack en Soy Henry, me encuentro motivado por aplicar los conocimientos que adquiri en el bootcamp y seguir aprendiendo junto a un gran equipo de trabajo, para llevar a cabo grandes projectos y crecer como profesional!</p>
 </div>  
-<h2 align="center"> ⚡Tecnologias que manejo:⚡ </h2> 
+<h2 align="center"> ⚡Mi stack de Tecnologias: </h2> 
  
-<h4 align="center">  ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ • ʀᴇᴀᴄᴛ • ʀᴇᴅᴜx •  ʜᴛᴍʟ • ᴄꜱꜱ • ᴘᴏꜱᴛɢʀᴇꜱQʟ• ꜱᴇQᴜᴇʟɪᴢᴇ • mongoDb • mongoose • ᴇxᴘʀᴇꜱꜱ • ɴᴏᴅᴇᴊꜱ  </h4>
+<h4 align="center">  ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ • ʀᴇᴀᴄᴛ • ʀᴇᴅᴜx •  ʜᴛᴍʟ • ᴄꜱꜱ • ᴘᴏꜱᴛɢʀᴇꜱqʟ• ꜱᴇqᴜᴇʟɪᴢᴇ • mongoDB • mongoose • ᴇxᴘʀᴇꜱꜱ • ɴᴏᴅᴇᴊꜱ  </h4>
 
 
 <br/>
 <p align="center">
-    <a href="www.linkedin.com/in/federico-villalba-dev">
+    <a href="https://www.linkedin.com/in/federico-villalba-dev/">
       <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
     </a>
     <a href="mailto:f.gabrielvillalba@gmail.com">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" height="50" width="50" />
     </a>
 <p/>
+
